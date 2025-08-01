@@ -1,2 +1,2 @@
 # JavaOS
-TR: Başlatmak için Setup.batı açın
+TR: Kurmak için Setup.batı açın Başlatmak için Start.batı açın
