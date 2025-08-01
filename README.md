@@ -1,2 +1,2 @@
 # JavaOS
-java os
+TR: Başlatmak için Setup.batı açın
